@@ -4,6 +4,7 @@
 
 ## Time log
 - 17.40 start
+- 19.40 finish
 
 ## Installation
 
